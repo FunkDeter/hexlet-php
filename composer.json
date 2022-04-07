@@ -1,0 +1,11 @@
+{
+    "name": "root/hexlet-php",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Igor Kinko",
+            "email": "igorkinko@gmail.com"
+        }
+    ],
+    "require": {}
+}
